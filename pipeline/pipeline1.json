@@ -72,7 +72,7 @@
 			},
 			"tableName": {
 				"type": "string",
-				"defaultValue": "Cars"
+				"defaultValue": "cars"
 			}
 		},
 		"annotations": []
