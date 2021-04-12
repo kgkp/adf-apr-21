@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "@dataset().fileName",
 				"container": "input"
 			},
 			"columnDelimiter": ",",
