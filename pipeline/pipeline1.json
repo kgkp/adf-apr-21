@@ -66,10 +66,10 @@
 			}
 		],
 		"parameters": {
-			"fileName": {
+			"@dataset().fileName": {
 				"type": "string"
 			},
-			"tableName": {
+			"@dataset().tableName": {
 				"type": "string"
 			}
 		},
